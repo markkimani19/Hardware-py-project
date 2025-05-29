@@ -10,3 +10,7 @@ class Product:
             self.stock -= quantity
             return True
         return False
+
+
+# store.add_product(Product(1, "Cement", 700, 100))
+# store.add_product(Product(2, "Nails (1kg)", 120, 200))

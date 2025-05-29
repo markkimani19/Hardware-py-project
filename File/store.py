@@ -26,5 +26,7 @@ class HardwareStore:
             print(f"Not enough stock for {product.name}.")
 
 
-            
-store = HardwareStore()
+
+# store = HardwareStore()
+
+

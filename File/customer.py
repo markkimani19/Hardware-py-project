@@ -3,4 +3,3 @@ class Customer:
         self.customer_id = customer_id
         self.name = name
 
-# store.add_customer(Customer(101, "Mark"))
