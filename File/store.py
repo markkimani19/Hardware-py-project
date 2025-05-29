@@ -24,3 +24,7 @@ class HardwareStore:
             print(f"Sold {quantity} {product.name} to {customer.name} for KES {total}")
         else:
             print(f"Not enough stock for {product.name}.")
+
+
+            
+store = HardwareStore()
